@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ocean_Android_Intro_13_e_15_09_2022</string>
+    <string name="input_text_hint">Digite Seu Nome</string>
+    <string name="bt_enviar_text">Enviar</string>
+    <string name="bt_nova_tela_text">Abrir Nova Tela</string>
+    <string name="tv_resultado_text">O resultado aparecerá aqui</string>
+    <string name="bt_voltar_text">Voltar</string>
+</resources>
